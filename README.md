@@ -24,7 +24,7 @@ Source: https://www.kaggle.com/mohansacharya/graduate-admissions
 Result: We tried and tested with 8 different models.
 The final model was built with Multiple R-squared value= 0.8188 and Adjusted   R-squared value= 0.8156 with no heteroscedasticity
 Our final significant variables included- GRE and TOEFL score, University Rating, LOR, UG GPA and Research experience
-The comparison between actual and predicted values was fairly accurate
+The comparison between actual and predicted values was fairly accurate.
 
 
 
